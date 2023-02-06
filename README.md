@@ -29,11 +29,11 @@ By modifying the algorithms like mentioned above, this script will have a tolera
 ### Forgered image
 ![Forgered image](/assets/dataset_example_blur.png?raw=true)
 ### Example result after detection
-![Result image](/output/20191125_094809_lined_dataset_example_blur.png)
+![Result image](/output/20230202_091213_lined_dataset_example_blur.png)
 
 ## Getting Started
 ```python3
-  python3 copy_move_detection/detect.p
+  python3 copy_move_detection/detect.py
 ```
 ## Acknowledgments
 
