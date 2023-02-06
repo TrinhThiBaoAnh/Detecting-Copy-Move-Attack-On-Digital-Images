@@ -36,5 +36,6 @@ By modifying the algorithms like mentioned above, this script will have a tolera
   python3 copy_move_detection/detect.py
 ```
 ## Acknowledgments
-
+ This assignment is developed from https://github.com/rahmatnazali/pimage.git. Thanks a lot for your help.
+ 
 # Detecting-Copy-Move-Attack-On-Digital-Images
